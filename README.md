@@ -2,23 +2,25 @@
 
 Well commented code for Stanford algorithm course on Coursera. Still updating.
 
-#Code index
+# Code index
 
-##Course2 week1 Kosaraju Two-Pass Algorithm
+## Course2 week1 Kosaraju Two-Pass Algorithm
 The algorithm is designed for computing strongly connected components in a directed graph. Due the the recursion limitation of python,I must implement by the for loop instead of recursion. The for loop template is provided at coursera weekly form:https://drive.google.com/file/d/1oyFlv810Ekc1QteXqDgb83vTkJEhAtnR/view
 
 Course link:https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
 
 
-##Course2 week2 Dijkstra's Shortest-path Algorithm
+## Course2 week2 Dijkstra's Shortest-path Algorithm
 The algorithm is designed for computing shortest path from one specific vertex to other vertices among a non-negative directed acyclic graph. The BFS also can be used for computing shortest path, but it has an assumption that all length of edges should be one.
 
 Course link:https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
 
 
-##Course2 week3 Heap Implementation & Median Maintenance
+## Course2 week3 Heap Implementation & Median Maintenance
 Implemented a heap class with two methods "Insert" and "popmin" with O(log(n)) time complicity. And then, using heap class I implemented to construct an Median Maintenance algorithm, which could maintenance the median when a stream of numbers pour in. That is, when a new number come, it will compute a new median with in O(log(n)) time.
 
 Course link:shttps://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
 
-##Course2 week4
+
+## Course2 week4
+Updating
