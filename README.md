@@ -17,7 +17,7 @@ Course link:https://www.coursera.org/learn/algorithms-graphs-data-structures/lec
 
 
 ## Course2 week3 Heap Implementation & Median Maintenance
-Implemented a heap class with two methods "Insert" and "popmin" with O(log(n)) time complicity. And then, using heap class I implemented to construct an Median Maintenance algorithm, which could maintenance the median when a stream of numbers pour in. That is, when a new number come, it will compute a new median with in O(log(n)) time.
+Implementing the heap class with two methods "Insert" and "popmin" with O(log(n)) time complicity; using the heap class to construct an Median Maintenance algorithm, which could maintenance the median when a stream of numbers pour in. That is, when a new number come, it will compute a new median with in O(log(n)) time.
 
 Course link:shttps://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
 
