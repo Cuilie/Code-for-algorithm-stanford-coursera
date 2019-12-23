@@ -22,5 +22,10 @@ Implementing the heap class with two methods "Insert" and "popmin" with O(log(n)
 Course link:shttps://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
 
 
-## Course2 week4
-Updating
+## Course2 Week4 2Sum using Hashtable
+Implement a 2Sum algorithm using hashtable. This algorithm takes 1 hour to run.
+
+Course link:https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/1Y8t1/hash-tables-implementation-details-part-ii
+
+
+**This repository is still updating!**
