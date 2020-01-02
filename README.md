@@ -1,6 +1,6 @@
 # Code-for-algorithm-stanford-coursera
 
-Well commented code for Stanford algorithm course on Coursera. Still updating.
+Well commented code for Stanford algorithm course on Coursera. Code for course2, course3, course4 are available now! Still updating.
 
 # Code index
 
